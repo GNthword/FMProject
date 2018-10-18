@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="fm_bool">true</bool>
+    <string name = "fm_str">string</string>
+    <integer name="fm_int">1</integer>
+
+    <integer-array name="fm_int_arr">
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+
+    <string-array name="fm_str_arr">
+        <item>str1</item>
+        <item>str2</item>
+    </string-array>
+
+</resources>
